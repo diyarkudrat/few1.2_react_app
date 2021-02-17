@@ -1,0 +1,29 @@
+.POPOSSpace {
+    width: 90%;
+    text-align: center;
+}
+
+.POPOSSpace > img {
+    width: 90%;
+    height: auto;
+    border-radius: 30px;
+    transition: width 1s;
+}
+
+.POPOSSpace > img:hover {
+    width: 100%;
+}
+
+.POPOSSpace > h1 {
+    font-weight: 500;
+}
+
+.address {
+    font-size: 18px;
+    color: cadetblue;
+    transition: font-size 1s;
+}
+
+.address:hover {
+    font-size: 24px;
+}
