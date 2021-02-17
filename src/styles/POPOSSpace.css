@@ -1,5 +1,5 @@
 .POPOSSpace {
-    width: 90%;
+    width: 100%;
     text-align: center;
 }
 
@@ -18,12 +18,16 @@
     font-weight: 500;
 }
 
-.address {
-    font-size: 18px;
-    color: cadetblue;
-    transition: font-size 1s;
+.space-info {
+    font-size: 16px;
 }
 
-.address:hover {
-    font-size: 24px;
+.space-address {
+    font-weight: 400;
+    color: cadetblue;
+}
+
+.space-hours {
+    font-style: italic;
+    color: indianred;
 }
