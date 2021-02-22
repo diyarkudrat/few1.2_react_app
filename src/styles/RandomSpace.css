@@ -1,0 +1,13 @@
+.RandomSpace {
+    padding-top: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.RandomSpace > button {
+    border-radius: 15px;
+    background-color: bisque;
+    font-size: 16px;
+    font-style: italic;
+    color: darkred;
+}
