@@ -1,5 +1,5 @@
 import React from 'react';
-import data from '../sfpopos-data.json';
+import data from '../sfpopos-data.js';
 import '../styles/POPOSDetails.css';
 
 function POPOSDetails(props) {
