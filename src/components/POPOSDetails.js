@@ -1,7 +1,6 @@
 import React from 'react';
 import data from '../sfpopos-data.js';
 import '../styles/POPOSDetails.css';
-import POPOSFeature from './POPOSFeature.js';
 import POPOSFeatureList from './POPOSFeatureList';
 
 function POPOSDetails(props) {
